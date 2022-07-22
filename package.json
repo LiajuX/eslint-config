@@ -7,7 +7,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "liajux/eslint-config"
+    "url": "https://github.com/LiajuX/eslint-config"
   },  
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
